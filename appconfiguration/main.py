@@ -1,5 +1,5 @@
 #
-#  Key Vault reference App Configuration
+#  App Configuration reference Key Vault  
 #
 
 import azure.identity, json
